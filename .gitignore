@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+.venv
+venv/
+build/
+dist/
+*.egg-info/
+
+# PyInstaller
+*.spec
+
+# DLL и бинарники
+*.dll
+*.lib
+*.pdb
+*.obj
+*.iobj
+*.ipdb
+*.exp
+*.exe
+*.so
+*.dylib
+*.a
+*.o
+*.log
+*.tlog/
+*.lastbuildstate
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj*
+*.filters
+*.user
+*.opensdf
+*.sdf
+*.cache
+*.db
+*.VC.db
+*.VC.opendb
+
+# Qt Creator
+*.pro.user*
+*.qmake.stash
+*.moc/
+*.qrc
+*.autosave
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test artifacts
+main/test/renderer3d.dll
+main/test/renderer3d_old.dll
+main/test/SDL2.dll
+main/test/*.log
+
+# Custom
+*.bak
+*.tmp 
