@@ -1,0 +1,2 @@
+﻿  renderer3d.cpp
+C:\Users\studentcoll\Desktop\final project\main\src\renderer3d\renderer3d.cpp(5,10): error C1083: Не удается открыть файл включение: SDL.h: No such file or directory,
